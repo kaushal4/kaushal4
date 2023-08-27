@@ -1,25 +1,13 @@
 ### Hi there 👋
 
-<!--
+
 **kaushal4/kaushal4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!--
+- 🔭 I’m currently working on Java, Spring, Backend-development
+- 🌱 I’m currently learning Python
+- 👯 I’m looking to collaborate on - Web Development
+- 💬 Ask me about Java, React, Node
+- 📫 How to reach me: damaniakaushal4@gmail.com, https://www.linkedin.com/in/kaushal-damania/
 -->
-
-<a href="https://github.com/kaushal4/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaushal4&show_icons=true&include_all_commits=true&theme=radical&hide=stars" alt="Kaushal's github stats" />
-</a>
-<br><br>
-<a href="https://github.com/kaushal4/github-readme-stats">
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushal4&layout=compact&theme=radical" />
-</a>
